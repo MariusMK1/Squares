@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|c:\\users\\mrkl\\desktop\\demos\\squares\\squares\\controllers\\planecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|solutionrelative:controllers\\planecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\controllers\\squarescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|solutionrelative:controllers\\squarescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\dtos\\pointdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|solutionrelative:dtos\\pointdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\litedb\\litedboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|solutionrelative:litedb\\litedboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\litedb\\litedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|solutionrelative:litedb\\litedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\mappings\\pointmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|solutionrelative:mappings\\pointmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\models\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|solutionrelative:models\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\services\\planeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|solutionrelative:services\\planeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\services\\squareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|solutionrelative:services\\squareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\squares.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|solutionrelative:squares.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DFE23C4-910A-48B8-8DFB-71384A203117}|Squares.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 212,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PointMapping.cs",
+              "DocumentMoniker": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Mappings\\PointMapping.cs",
+              "RelativeDocumentMoniker": "Mappings\\PointMapping.cs",
+              "ToolTip": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Mappings\\PointMapping.cs",
+              "RelativeToolTip": "Mappings\\PointMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:40:10.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PointDto.cs",
+              "DocumentMoniker": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Dtos\\PointDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\PointDto.cs",
+              "ToolTip": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Dtos\\PointDto.cs",
+              "RelativeToolTip": "Dtos\\PointDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:40:11.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlaneService.cs",
+              "DocumentMoniker": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Services\\PlaneService.cs",
+              "RelativeDocumentMoniker": "Services\\PlaneService.cs",
+              "ToolTip": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Services\\PlaneService.cs",
+              "RelativeToolTip": "Services\\PlaneService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:40:11.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LiteDbOptions.cs",
+              "DocumentMoniker": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\LiteDb\\LiteDbOptions.cs",
+              "RelativeDocumentMoniker": "LiteDb\\LiteDbOptions.cs",
+              "ToolTip": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\LiteDb\\LiteDbOptions.cs",
+              "RelativeToolTip": "LiteDb\\LiteDbOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:40:11.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LiteDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\LiteDb\\LiteDbContext.cs",
+              "RelativeDocumentMoniker": "LiteDb\\LiteDbContext.cs",
+              "ToolTip": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\LiteDb\\LiteDbContext.cs",
+              "RelativeToolTip": "LiteDb\\LiteDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:40:11.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SquaresController.cs",
+              "DocumentMoniker": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Controllers\\SquaresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SquaresController.cs",
+              "ToolTip": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Controllers\\SquaresController.cs",
+              "RelativeToolTip": "Controllers\\SquaresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:40:11.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Squares.csproj",
+              "DocumentMoniker": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Squares.csproj",
+              "RelativeDocumentMoniker": "Squares.csproj",
+              "ToolTip": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Squares.csproj",
+              "RelativeToolTip": "Squares.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003627|",
+              "WhenOpened": "2024-05-20T12:40:11.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Models\\Point.cs",
+              "RelativeDocumentMoniker": "Models\\Point.cs",
+              "ToolTip": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Models\\Point.cs",
+              "RelativeToolTip": "Models\\Point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:40:11.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SquareService.cs",
+              "DocumentMoniker": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Services\\SquareService.cs",
+              "RelativeDocumentMoniker": "Services\\SquareService.cs",
+              "ToolTip": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Services\\SquareService.cs",
+              "RelativeToolTip": "Services\\SquareService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:40:11.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlaneController.cs",
+              "DocumentMoniker": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Controllers\\PlaneController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlaneController.cs",
+              "ToolTip": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Controllers\\PlaneController.cs",
+              "RelativeToolTip": "Controllers\\PlaneController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:40:11.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T12:40:11.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T12:40:11.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MRKL\\Desktop\\Demos\\Squares\\Squares\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:40:11.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

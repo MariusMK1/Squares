@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Squares</name>
+    </assembly>
+    <members>
+        <member name="M:Squares.Controllers.PlaneController.Get">
+            <summary>
+            Gets all provided points of the plane.
+            </summary>
+            <returns>A list of points.</returns>
+            <remarks>
+            Sample request:
+                GET /api/points
+            </remarks>
+        </member>
+        <member name="M:Squares.Controllers.PlaneController.Create(System.Collections.Generic.List{Squares.Models.Point})">
+            <summary>
+            Creates a new plane with the given collection of points.
+            </summary>
+            <param name="collection">The collection of points to create the plane with.</param>
+            <returns>An ActionResult indicating the success of the operation.</returns>
+            <remarks>
+            Sample request:
+                POST /api/points
+                [
+                    { "x": 1, "y": 2 },
+                    { "x": 3, "y": 4 }
+                ]
+            </remarks>
+        </member>
+        <member name="M:Squares.Controllers.PlaneController.Add(System.Collections.Generic.List{Squares.Models.Point})">
+            <summary>
+            Adds a collection of points to the plane.
+            </summary>
+            <param name="collection">The collection of points to add to the plane.</param>
+            <returns>An ActionResult indicating the success of the operation.</returns>
+            <remarks>
+            Sample request:
+                PUT /api/points
+                [
+                    { "x": 5, "y": 6 },
+                    { "x": 7, "y": 8 }
+                ]
+            </remarks>
+        </member>
+        <member name="M:Squares.Controllers.PlaneController.Delete(Squares.Models.Point)">
+            <summary>
+            Deletes a point from the plane.
+            </summary>
+            <param name="point">The point to delete from the plane.</param>
+            <returns>An ActionResult indicating the success of the operation.</returns>
+            <remarks>
+            Sample request:
+                DELETE /api/points
+                {
+                    "x": 1,
+                    "y": 2
+                }
+            </remarks>
+        </member>
+        <member name="M:Squares.Controllers.SquaresController.Get">
+            <summary>
+            Returns a list of squares that can be drawn in the provided list of points
+            </summary>
+            <returns>a list of a list of points </returns>
+            <remarks>
+            Sample request:
+                GET /api/squares
+            </remarks>
+        </member>
+    </members>
+</doc>
